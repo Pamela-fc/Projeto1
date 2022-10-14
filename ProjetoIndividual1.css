@@ -1,0 +1,43 @@
+.div1{
+    background-color: rgba(2, 51, 6, 0.945);
+    color: rgb(252, 236, 247);
+    height: 1000px;
+    width: 1500px;
+    display: inline-block;
+  
+}
+.div2{
+    background-color: rgb(248, 173, 34);
+    color: rgba(239, 241, 233, 0.982);
+    height: 410px;
+    width: 700px;
+    display: inline-block;
+    border-radius: 30px;
+    margin: 16px;
+    box-shadow: 0px 3px 4px 2px rgb(169, 192, 68)
+    
+}
+
+.div3{
+    background-color: rgb(248, 173, 34);
+    color: rgba(239, 241, 233, 0.982);
+    height: 410px;
+    width: 700px;
+    display: inline-block;
+    border-radius: 30px;
+    margin: 16px;
+    box-shadow: 0px 3px 4px 2px rgb(169, 192, 68)
+}
+ 
+.div4{
+    background-color: rgb(248, 173, 34);
+    color: rgba(239, 241, 233, 0.982);
+    height: 400px;
+    width: 700px;
+    display: inline-block;
+}
+button:hover{
+    color: blue;
+    background-color: rgba(248, 173, 34);
+    
+}
